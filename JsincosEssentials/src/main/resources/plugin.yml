@@ -1,0 +1,5 @@
+name: JsincosEssentials
+version: '${project.version}'
+main: me.jsinco.jsincosessentials.JsincosEssentials
+api-version: 1.19
+
